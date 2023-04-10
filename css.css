@@ -5,7 +5,8 @@
   }
   
   #chart {
-    height: 100%;
+    margin-left: -35%;
+      height: 100%;
   }
   
   .chart-legend {
